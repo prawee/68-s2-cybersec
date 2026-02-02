@@ -1,4 +1,6 @@
 # Cyber Security
 
-## 4820750141
+## Information
 - Prawee wongsa
+- 4820750141
+- prawee.w@fte.kmutnb.ac.th
