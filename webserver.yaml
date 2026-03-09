@@ -1,0 +1,7 @@
+services:
+  s2web:
+    image: caddy/caddy
+    ports:
+      - "2015:2015"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile
