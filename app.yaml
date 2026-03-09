@@ -11,3 +11,5 @@ services:
       DATABASE_PORT: 5432
       DATABASE_USERNAME: ${DATABASE_USER}
       DATABASE_PASSWORD: ${DATABASE_PASS}
+    depends_on:
+      - s2db
